@@ -1,7 +1,11 @@
 {
   "name": "import-sort-style-konsch",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "src/index.js",
   "author": "Konstantin Pschera <me@kons.ch>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/k15a/import-sort-style-konsch",
+  "peerDependencies": {
+    "import-sort": "^4.2.0"
+  }
 }
