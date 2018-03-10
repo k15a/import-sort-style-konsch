@@ -1,6 +1,6 @@
 {
   "name": "import-sort-style-konsch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "author": "Konstantin Pschera <me@kons.ch>",
   "license": "MIT",
